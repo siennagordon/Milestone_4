@@ -1,6 +1,7 @@
 // =====================
 // GLOBAL VARIABLES
 // =====================
+const API_KEY = "AIzaSyBF88Zj0i10ZawguX0YsCULIoLOgDvpCMs";
 let currentQuery = "";
 let currentStartIndex = 0;
 const RESULTS_PER_PAGE = 10;
